@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="../../common.props" />
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\source\CodeYesterday.GitFlowMaster.Api.Cli\CodeYesterday.GitFlowMaster.Api.Cli.csproj" />
+  </ItemGroup>
+
+</Project>
