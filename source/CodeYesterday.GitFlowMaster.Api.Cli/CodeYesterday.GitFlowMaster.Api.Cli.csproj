@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="../../common.props" />
+
+  <ItemGroup>
+    <ProjectReference Include="..\CodeYesterday.GitFlowMaster.Api\CodeYesterday.GitFlowMaster.Api.csproj" />
+  </ItemGroup>
+
+</Project>

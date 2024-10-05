@@ -1,0 +1,16 @@
+<Project>
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Title>GitFlowMaster</Title>
+    <Authors>CodeYesterday</Authors>
+    <Product>GitFlowMaster</Product>
+    <PackageProjectUrl>https://github.com/CodeYesterday/GitFlowMaster</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/CodeYesterday/GitFlowMaster</RepositoryUrl>
+  </PropertyGroup>
+</Project>
